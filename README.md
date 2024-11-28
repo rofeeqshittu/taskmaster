@@ -4,6 +4,8 @@
 
 **TaskMaster** is a full-stack task management system designed to streamline task organization and management. The application allows users to register, log in, and manage tasks with features such as priority assignment, deadlines, filtering, and search functionality. The goal is to provide an intuitive, secure, and scalable platform for efficient task management.
 
+!["Task manager view"](frontend/task-manager.png)
+
 ## Concepts
 
 This project integrates key concepts of modern web development, including:
