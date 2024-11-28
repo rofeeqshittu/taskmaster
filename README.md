@@ -39,7 +39,7 @@ This project integrates key concepts of modern web development, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskmaster.git
+   git clone https://github.com/rofeeqshittu/taskmaster.git
    cd taskmaster/backend
     ```
 
@@ -125,3 +125,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **Rofeeq Shittu** - Developer|Designer
 
+---
+© Rofeeq Shittu - 2024
